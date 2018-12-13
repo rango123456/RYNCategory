@@ -1,0 +1,6 @@
+framework module RYNCategory {
+  umbrella header "RYNCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}
