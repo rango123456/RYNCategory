@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - RYNCategory (0.1.0)
+  - RYNCategory (0.1.1)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  RYNCategory: 087b5ec74ac3490fc2d08f29296760f22105f649
+  RYNCategory: 2e1e0cc83f698a9e41d2c7cb29c221f705d9cb8b
 
 PODFILE CHECKSUM: a0abe9de666e971d9da47d800dab82f37b1af5d9
 

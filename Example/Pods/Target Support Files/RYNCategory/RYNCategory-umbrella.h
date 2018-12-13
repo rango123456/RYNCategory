@@ -13,6 +13,8 @@
 #import "NSDate+Category.h"
 #import "NSDateFormatter+Category.h"
 #import "RYNCategory.h"
+#import "UIButton+EnlargeHitArea.h"
+#import "UIButton+Type.h"
 #import "UIScrollView+Extensions.h"
 
 FOUNDATION_EXPORT double RYNCategoryVersionNumber;

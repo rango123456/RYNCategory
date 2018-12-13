@@ -11,28 +11,28 @@
 		094973D2D2F1E3B2E772F93C8147C6B9 /* UIApplication+StrictKeyWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EECE81A9AEC1ED1057A9C3C88DBCEBE /* UIApplication+StrictKeyWindow.m */; };
 		123279A82AB89F78C2C253FBC2AAC188 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
 		1AB7934C16CE49DE196FFC7BE7278287 /* SwiftSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97545C39C4A5EE2631DD9FFECE76A40 /* SwiftSupport.swift */; };
-		1B376F7271F3FC029714255184AC81C5 /* NSDateFormatter+Category.h in Headers */ = {isa = PBXBuildFile; fileRef = C32F1AD5A9CCE3819B082DF84D7BA5B7 /* NSDateFormatter+Category.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1BA6810E383CB35036750EB3ED1B8E2D /* RYNCategory-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B3BB9D5CF9948184C6C8C2679643B8E /* RYNCategory-dummy.m */; };
-		24C581DBF0C09324F6257BEB3A8A755E /* NSDateFormatter+Category.m in Sources */ = {isa = PBXBuildFile; fileRef = 79A099654BFE85E766F102FC465AB88A /* NSDateFormatter+Category.m */; };
 		2CC7A66DC3E4840949747FAA3E4CBCCC /* Pods-RYNCategory_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C48C2A7FFBD2E874883213984BA9A114 /* Pods-RYNCategory_Tests-dummy.m */; };
-		2D2EC4259382E093BB573B876CA98E0E /* RYNCategory-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0F5A2A14F39B5CE79E8AF44126B37EC2 /* RYNCategory-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2F485B69F51E4F723A38410F31F08550 /* FBSnapshotTestController.h in Headers */ = {isa = PBXBuildFile; fileRef = 1374B79237CAC07693E99442FBED1F15 /* FBSnapshotTestController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		35DD05FD595A6FE7F5A0692D12E319DC /* UIImage+Diff.m in Sources */ = {isa = PBXBuildFile; fileRef = B9CEF7D6C5E08AB80E58DABC75D882BC /* UIImage+Diff.m */; };
+		3CA770C62CD19F6E75B07AEB0861F3E6 /* RYNCategory-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 74473C8ECFA92E0BCE2590BD0658B43F /* RYNCategory-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		421CDD701AEE0F2458A84200366CDD0F /* UIImage+Snapshot.h in Headers */ = {isa = PBXBuildFile; fileRef = 0B161931541BFE46DFEA2092EDDDA815 /* UIImage+Snapshot.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		48D344DA34E8E7A2813C752AC849156F /* NSDate+Category.m in Sources */ = {isa = PBXBuildFile; fileRef = DC3B4E6793AA3F97D0D08F71CC98EA5E /* NSDate+Category.m */; };
-		49F618EB90E3A34218EB33D84CA772AF /* UIScrollView+Extensions.h in Headers */ = {isa = PBXBuildFile; fileRef = FAAE785FEE8BC58541D635BEB8DA4AC6 /* UIScrollView+Extensions.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		45E552237229DDBDB4F05F05888D56F8 /* UIButton+Type.m in Sources */ = {isa = PBXBuildFile; fileRef = 31E9E40704EA8007EA67309938352890 /* UIButton+Type.m */; };
 		506D761F91EC3583789A837C559972FE /* FBSnapshotTestCase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4792533D7EE0F440EE722DA4999E845C /* FBSnapshotTestCase-dummy.m */; };
-		5B1823A62CB0B4DB35A6C9E020D46790 /* UIScrollView+Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = C40D844337FD68114BF50674B5CC02DA /* UIScrollView+Extensions.m */; };
+		5459E711FCDE4E2DB480DC19A449719C /* NSDateFormatter+Category.m in Sources */ = {isa = PBXBuildFile; fileRef = 3887320267EEBFA6581F5C8ECECCF329 /* NSDateFormatter+Category.m */; };
 		69DA8B003216466C60F029CBD79897F1 /* UIImage+Compare.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B5E22F9517F21D3A0251F88FCAB281E /* UIImage+Compare.m */; };
-		6B3C7153A0D0EE04FDA175F42C312090 /* NSDate+Category.h in Headers */ = {isa = PBXBuildFile; fileRef = C5245CCE0BDB94D59FE58B0AB250B0F8 /* NSDate+Category.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		756564ABAF2892FE7140C92A1CDDCF65 /* UIImage+Snapshot.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DBFBDCC891B770A2AC9EF0FB164B751 /* UIImage+Snapshot.m */; };
 		7E9B14D5F8842A86CA86F2AF45230725 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A8F339250A1C3C5C5C5364254007103 /* XCTest.framework */; };
 		841FF232C33C7D49C58CEFDBE7EEB92B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA323C90663942983643D7A4D1F697C8 /* UIKit.framework */; };
+		845BA307068ED0E1578B06C131E4124E /* NSDate+Category.m in Sources */ = {isa = PBXBuildFile; fileRef = 1567B5D3C2C1DF0CA528BA12854AB217 /* NSDate+Category.m */; };
+		8E220B3259C7ACAFE9BA969D85F19BF3 /* RYNCategory-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EB326D43F765FBA5BC25B360D3E1487 /* RYNCategory-dummy.m */; };
 		91D0138ACFAD733E4061F12E450C336C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
+		94A8389D9AB546BEE90CD938ECA6D001 /* UIButton+Type.h in Headers */ = {isa = PBXBuildFile; fileRef = 98EE3D62916B08272F1373A75FF10C90 /* UIButton+Type.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9673CF780F48C8E4EC2A331717B1F67C /* FBSnapshotTestCase.h in Headers */ = {isa = PBXBuildFile; fileRef = E37899BD4B349060AA147E2A3721D3A2 /* FBSnapshotTestCase.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A4F69F3477A935285620AC3031C5C848 /* FBSnapshotTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 052258A488A96C35531FAC73C4F42924 /* FBSnapshotTestController.m */; };
 		A984339CFAED44A2800A85B42EEB711F /* Pods-RYNCategory_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3AF682079B5FB354B60FD36963083C85 /* Pods-RYNCategory_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A9898D4B0B4CF7118F671286A33B5F72 /* RYNCategory.h in Headers */ = {isa = PBXBuildFile; fileRef = C2060720EFA20695094B71C2CE453FEC /* RYNCategory.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A9C16F10432B153CDEA16C42DAE7444C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
+		B0E0F9C2E43DEE7521D2A0A73A6526EA /* UIButton+EnlargeHitArea.m in Sources */ = {isa = PBXBuildFile; fileRef = 844E644ABA39959BE1E42AC7292AA27B /* UIButton+EnlargeHitArea.m */; };
 		B27DFD6025D94758785918F1D6F6C060 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A27810809BAD71E4022600B21251449F /* QuartzCore.framework */; };
 		B6077C11907E653068059A65CCDEF99F /* Pods-RYNCategory_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1141C880E361A98933F764658EDAA78D /* Pods-RYNCategory_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B758FB09FE2C06C1B8E36A71A9D76D41 /* FBSnapshotTestCase-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A11D5B54955E3381F067364E427B571A /* FBSnapshotTestCase-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -40,10 +40,14 @@
 		BE14F2198CDB0DAD98A567981D21C7A1 /* FBSnapshotTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 39577E2B806B8B2D019998DE60728F63 /* FBSnapshotTestCase.m */; };
 		BFCE460CC33E8872B7156D4166340178 /* FBSnapshotTestCasePlatform.h in Headers */ = {isa = PBXBuildFile; fileRef = 7E3DB4D092B985E76E227F7F313C6981 /* FBSnapshotTestCasePlatform.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CAFA5E486BCE117A7D8C0FBF9DA6666B /* UIImage+Compare.h in Headers */ = {isa = PBXBuildFile; fileRef = 432938111B6FF0189EFFEDF2F845B308 /* UIImage+Compare.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		CFB221217F277AA37943AA3C5C1421BA /* RYNCategory.h in Headers */ = {isa = PBXBuildFile; fileRef = ABE36FFD8A82464170C90D3E15728F1C /* RYNCategory.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D14A78F9E54F9B870A7859C099A1C172 /* UIButton+EnlargeHitArea.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BCA09147EF63674897AF477BF2676F5 /* UIButton+EnlargeHitArea.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D41B4E9C0DDCC1F26FCFD109A825D8A6 /* UIScrollView+Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = FFC86AA9B9188BFE98B87E8F3FF7B8C7 /* UIScrollView+Extensions.m */; };
+		D45DAE8E489A3CF4E23A83DF7F97C1E8 /* NSDate+Category.h in Headers */ = {isa = PBXBuildFile; fileRef = 756CC646AA424F5AAB0D583612129C12 /* NSDate+Category.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D9842055BD93922BA3E4A6C97F2D571A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
 		DB7A106243AC974FC7EBEB00B506C786 /* FBSnapshotTestCasePlatform.m in Sources */ = {isa = PBXBuildFile; fileRef = 58A2557E7CE20AACCD1B28B1CD1F920D /* FBSnapshotTestCasePlatform.m */; };
 		DBB0049F9D618D972243B89062E3760E /* Pods-RYNCategory_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 61D6D8279D530823BE26A5803D5B3032 /* Pods-RYNCategory_Example-dummy.m */; };
+		DBE5F56AD0E5D8EC26BA87C4FDAB7961 /* UIScrollView+Extensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 35167FBFE7F068D4783ACFF3FC6C01E2 /* UIScrollView+Extensions.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E62DA317D111C4C8B82FE147ECD26FAE /* NSDateFormatter+Category.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F87003F4F34BA0DAA6BFEA74B735333 /* NSDateFormatter+Category.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,71 +76,75 @@
 
 /* Begin PBXFileReference section */
 		052258A488A96C35531FAC73C4F42924 /* FBSnapshotTestController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestController.m; path = FBSnapshotTestCase/FBSnapshotTestController.m; sourceTree = "<group>"; };
+		085997941FA9B5734367CCD347E653ED /* RYNCategory.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = RYNCategory.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		0B161931541BFE46DFEA2092EDDDA815 /* UIImage+Snapshot.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Snapshot.h"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.h"; sourceTree = "<group>"; };
-		0DAAC9353B5CAF25601746B5F92D0F8A /* RYNCategory.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = RYNCategory.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		0F411CC6C8904E86B91FADB7DBDC2F8C /* Pods-RYNCategory_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-RYNCategory_Tests.modulemap"; sourceTree = "<group>"; };
-		0F5A2A14F39B5CE79E8AF44126B37EC2 /* RYNCategory-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RYNCategory-umbrella.h"; sourceTree = "<group>"; };
 		1141C880E361A98933F764658EDAA78D /* Pods-RYNCategory_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-RYNCategory_Tests-umbrella.h"; sourceTree = "<group>"; };
 		1374B79237CAC07693E99442FBED1F15 /* FBSnapshotTestController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestController.h; path = FBSnapshotTestCase/FBSnapshotTestController.h; sourceTree = "<group>"; };
+		1488827E8D1F43EA2B26B6BD2AA2BF09 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		1567B5D3C2C1DF0CA528BA12854AB217 /* NSDate+Category.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDate+Category.m"; path = "RYNCategory/Classes/NSDate+Category.m"; sourceTree = "<group>"; };
 		15D880CD7F3DD2E15AB99F54A7B7A1F9 /* Pods-RYNCategory_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-RYNCategory_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		19FD55EDA8C0657E9DE2F4A4D78FC9BC /* Pods-RYNCategory_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RYNCategory_Example.release.xcconfig"; sourceTree = "<group>"; };
 		1ACE99C31C6FDDE732CA29446E422149 /* Pods-RYNCategory_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-RYNCategory_Example-resources.sh"; sourceTree = "<group>"; };
 		1EF29E0131A26F8EF79EF34E49B81697 /* Pods-RYNCategory_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-RYNCategory_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		2EECE81A9AEC1ED1057A9C3C88DBCEBE /* UIApplication+StrictKeyWindow.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIApplication+StrictKeyWindow.m"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.m"; sourceTree = "<group>"; };
-		394BE66ECA95472EE78A383BE9896433 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		31E9E40704EA8007EA67309938352890 /* UIButton+Type.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIButton+Type.m"; path = "RYNCategory/Classes/UIButton+Type.m"; sourceTree = "<group>"; };
+		35167FBFE7F068D4783ACFF3FC6C01E2 /* UIScrollView+Extensions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIScrollView+Extensions.h"; path = "RYNCategory/Classes/UIScrollView+Extensions.h"; sourceTree = "<group>"; };
+		3887320267EEBFA6581F5C8ECECCF329 /* NSDateFormatter+Category.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDateFormatter+Category.m"; path = "RYNCategory/Classes/NSDateFormatter+Category.m"; sourceTree = "<group>"; };
 		39577E2B806B8B2D019998DE60728F63 /* FBSnapshotTestCase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCase.m; path = FBSnapshotTestCase/FBSnapshotTestCase.m; sourceTree = "<group>"; };
 		3A8F339250A1C3C5C5C5364254007103 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		3AF682079B5FB354B60FD36963083C85 /* Pods-RYNCategory_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-RYNCategory_Example-umbrella.h"; sourceTree = "<group>"; };
 		3B5E22F9517F21D3A0251F88FCAB281E /* UIImage+Compare.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Compare.m"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.m"; sourceTree = "<group>"; };
+		3BCA09147EF63674897AF477BF2676F5 /* UIButton+EnlargeHitArea.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIButton+EnlargeHitArea.h"; path = "RYNCategory/Classes/UIButton+EnlargeHitArea.h"; sourceTree = "<group>"; };
 		3DBFBDCC891B770A2AC9EF0FB164B751 /* UIImage+Snapshot.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Snapshot.m"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.m"; sourceTree = "<group>"; };
+		3F87003F4F34BA0DAA6BFEA74B735333 /* NSDateFormatter+Category.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSDateFormatter+Category.h"; path = "RYNCategory/Classes/NSDateFormatter+Category.h"; sourceTree = "<group>"; };
 		432938111B6FF0189EFFEDF2F845B308 /* UIImage+Compare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Compare.h"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.h"; sourceTree = "<group>"; };
 		4792533D7EE0F440EE722DA4999E845C /* FBSnapshotTestCase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FBSnapshotTestCase-dummy.m"; sourceTree = "<group>"; };
 		527169798ED9113C54EB8560B641BA42 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		58A2557E7CE20AACCD1B28B1CD1F920D /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
 		61D6D8279D530823BE26A5803D5B3032 /* Pods-RYNCategory_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-RYNCategory_Example-dummy.m"; sourceTree = "<group>"; };
+		62249CFBFE575A708DBE6DDD6C300D5A /* RYNCategory.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = RYNCategory.modulemap; sourceTree = "<group>"; };
 		6722BD9E0AEF9258E435BD5D2AB9F101 /* Pods-RYNCategory_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-RYNCategory_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		67E276593855381568F725E69496F29C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6A4FB07A783B97546BE01380E28D6BD0 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6C405530FB99CCD2A3014924686F1885 /* Pods_RYNCategory_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_RYNCategory_Example.framework; path = "Pods-RYNCategory_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7111A6E035C29B213F4C9FC69C07A116 /* Pods-RYNCategory_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RYNCategory_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		72170CB74686EC547A42CF93407D623F /* RYNCategory.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = RYNCategory.xcconfig; sourceTree = "<group>"; };
-		786F0CF27808BD8B0B90A3B8621E062C /* RYNCategory.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = RYNCategory.modulemap; sourceTree = "<group>"; };
-		79A099654BFE85E766F102FC465AB88A /* NSDateFormatter+Category.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDateFormatter+Category.m"; path = "RYNCategory/Classes/NSDateFormatter+Category.m"; sourceTree = "<group>"; };
+		74473C8ECFA92E0BCE2590BD0658B43F /* RYNCategory-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RYNCategory-umbrella.h"; sourceTree = "<group>"; };
+		756CC646AA424F5AAB0D583612129C12 /* NSDate+Category.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSDate+Category.h"; path = "RYNCategory/Classes/NSDate+Category.h"; sourceTree = "<group>"; };
 		7A70E4DB35DA32A04F25D959A375B28A /* Pods-RYNCategory_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-RYNCategory_Example.modulemap"; sourceTree = "<group>"; };
 		7B37D7C695D5C6C47A7C093595CD4F06 /* FBSnapshotTestCase.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.xcconfig; sourceTree = "<group>"; };
-		7B3BB9D5CF9948184C6C8C2679643B8E /* RYNCategory-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "RYNCategory-dummy.m"; sourceTree = "<group>"; };
 		7E3DB4D092B985E76E227F7F313C6981 /* FBSnapshotTestCasePlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCasePlatform.h; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.h; sourceTree = "<group>"; };
+		7EB326D43F765FBA5BC25B360D3E1487 /* RYNCategory-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "RYNCategory-dummy.m"; sourceTree = "<group>"; };
+		844E644ABA39959BE1E42AC7292AA27B /* UIButton+EnlargeHitArea.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIButton+EnlargeHitArea.m"; path = "RYNCategory/Classes/UIButton+EnlargeHitArea.m"; sourceTree = "<group>"; };
 		85E250EF19C5B5671AEC10BEB508D087 /* UIImage+Diff.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Diff.h"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.h"; sourceTree = "<group>"; };
 		8931A5C26F4D46337C5319CB1E436BC4 /* Pods_RYNCategory_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_RYNCategory_Tests.framework; path = "Pods-RYNCategory_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8F31EED6F6C82A455585CF6217598B50 /* RYNCategory.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = RYNCategory.xcconfig; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		98EE3D62916B08272F1373A75FF10C90 /* UIButton+Type.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIButton+Type.h"; path = "RYNCategory/Classes/UIButton+Type.h"; sourceTree = "<group>"; };
+		99528E1E39F0503D1D35CAB34B07AB0A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		9CFAE00275644FA413511CA024AD79C9 /* Pods-RYNCategory_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-RYNCategory_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		A11D5B54955E3381F067364E427B571A /* FBSnapshotTestCase-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-umbrella.h"; sourceTree = "<group>"; };
 		A27810809BAD71E4022600B21251449F /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/QuartzCore.framework; sourceTree = DEVELOPER_DIR; };
 		AA323C90663942983643D7A4D1F697C8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		ABE36FFD8A82464170C90D3E15728F1C /* RYNCategory.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RYNCategory.h; path = RYNCategory/Classes/RYNCategory.h; sourceTree = "<group>"; };
 		B9109B8B333B5A1A3E92EFC09EDC10AC /* UIApplication+StrictKeyWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIApplication+StrictKeyWindow.h"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.h"; sourceTree = "<group>"; };
 		B9CEF7D6C5E08AB80E58DABC75D882BC /* UIImage+Diff.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Diff.m"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.m"; sourceTree = "<group>"; };
-		BA14A7517A929DD9D1CE6AC7456CC1D3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		BC33AD8B265DEC8DD0AFFD66B3A27BA6 /* RYNCategory-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RYNCategory-prefix.pch"; sourceTree = "<group>"; };
 		BF816B90EEBA28D97A13D8D69A7B0F03 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C32F1AD5A9CCE3819B082DF84D7BA5B7 /* NSDateFormatter+Category.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSDateFormatter+Category.h"; path = "RYNCategory/Classes/NSDateFormatter+Category.h"; sourceTree = "<group>"; };
-		C40D844337FD68114BF50674B5CC02DA /* UIScrollView+Extensions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIScrollView+Extensions.m"; path = "RYNCategory/Classes/UIScrollView+Extensions.m"; sourceTree = "<group>"; };
+		C2060720EFA20695094B71C2CE453FEC /* RYNCategory.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RYNCategory.h; path = RYNCategory/Classes/RYNCategory.h; sourceTree = "<group>"; };
 		C463928A606FA12DF730B28B268AE718 /* RYNCategory.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = RYNCategory.framework; path = RYNCategory.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C48C2A7FFBD2E874883213984BA9A114 /* Pods-RYNCategory_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-RYNCategory_Tests-dummy.m"; sourceTree = "<group>"; };
-		C5245CCE0BDB94D59FE58B0AB250B0F8 /* NSDate+Category.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSDate+Category.h"; path = "RYNCategory/Classes/NSDate+Category.h"; sourceTree = "<group>"; };
 		C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		C97E0591FBE8273F0373315A61F02A4E /* Pods-RYNCategory_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RYNCategory_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		D97545C39C4A5EE2631DD9FFECE76A40 /* SwiftSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftSupport.swift; path = FBSnapshotTestCase/SwiftSupport.swift; sourceTree = "<group>"; };
 		D98CF6F052FC8CE21964F6F51FB271CE /* Pods-RYNCategory_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-RYNCategory_Tests-resources.sh"; sourceTree = "<group>"; };
-		DC3B4E6793AA3F97D0D08F71CC98EA5E /* NSDate+Category.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDate+Category.m"; path = "RYNCategory/Classes/NSDate+Category.m"; sourceTree = "<group>"; };
 		DD66D44AE87604F447A761A6C8FF925E /* Pods-RYNCategory_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RYNCategory_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		E37899BD4B349060AA147E2A3721D3A2 /* FBSnapshotTestCase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCase.h; path = FBSnapshotTestCase/FBSnapshotTestCase.h; sourceTree = "<group>"; };
-		E37E68B508D169EB263980B886ADEA73 /* RYNCategory-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RYNCategory-prefix.pch"; sourceTree = "<group>"; };
-		E9D23D3F7FD62C1C7D0252D629B3724F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		EF519A026B10AC73ABBE6E658308B29D /* FBSnapshotTestCase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-prefix.pch"; sourceTree = "<group>"; };
 		F10CBDEE32E5F6BDECFB3D41F7DD0B03 /* FBSnapshotTestCase.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = FBSnapshotTestCase.modulemap; sourceTree = "<group>"; };
 		F6D1FB968D2631D42CD2663CC7FCC9B5 /* Pods-RYNCategory_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-RYNCategory_Example-frameworks.sh"; sourceTree = "<group>"; };
 		F7BDE1926EE092151513990702BACD46 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FBSnapshotTestCase.framework; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		FAAE785FEE8BC58541D635BEB8DA4AC6 /* UIScrollView+Extensions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIScrollView+Extensions.h"; path = "RYNCategory/Classes/UIScrollView+Extensions.h"; sourceTree = "<group>"; };
 		FB2116CFA09E6ADAA2AD7FE30EB5AC6A /* Pods-RYNCategory_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-RYNCategory_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		FFC86AA9B9188BFE98B87E8F3FF7B8C7 /* UIScrollView+Extensions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIScrollView+Extensions.m"; path = "RYNCategory/Classes/UIScrollView+Extensions.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -178,6 +186,35 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		06081555C1F65D8EDEB503E8FF9C9CD9 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0DC3FC36879B8904E972C4FE00E4F068 /* RYNCategory */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		0DC3FC36879B8904E972C4FE00E4F068 /* RYNCategory */ = {
+			isa = PBXGroup;
+			children = (
+				756CC646AA424F5AAB0D583612129C12 /* NSDate+Category.h */,
+				1567B5D3C2C1DF0CA528BA12854AB217 /* NSDate+Category.m */,
+				3F87003F4F34BA0DAA6BFEA74B735333 /* NSDateFormatter+Category.h */,
+				3887320267EEBFA6581F5C8ECECCF329 /* NSDateFormatter+Category.m */,
+				C2060720EFA20695094B71C2CE453FEC /* RYNCategory.h */,
+				3BCA09147EF63674897AF477BF2676F5 /* UIButton+EnlargeHitArea.h */,
+				844E644ABA39959BE1E42AC7292AA27B /* UIButton+EnlargeHitArea.m */,
+				98EE3D62916B08272F1373A75FF10C90 /* UIButton+Type.h */,
+				31E9E40704EA8007EA67309938352890 /* UIButton+Type.m */,
+				35167FBFE7F068D4783ACFF3FC6C01E2 /* UIScrollView+Extensions.h */,
+				FFC86AA9B9188BFE98B87E8F3FF7B8C7 /* UIScrollView+Extensions.m */,
+				60CB3EB1B03FEBD138E744195ED84205 /* Pod */,
+				649B410C806236759657733562B7B85F /* Support Files */,
+			);
+			name = RYNCategory;
+			path = ../..;
+			sourceTree = "<group>";
+		};
 		14B8B9B15ECBE87983FF987239AB2D7B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -211,11 +248,35 @@
 			path = "../Target Support Files/FBSnapshotTestCase";
 			sourceTree = "<group>";
 		};
+		60CB3EB1B03FEBD138E744195ED84205 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				1488827E8D1F43EA2B26B6BD2AA2BF09 /* LICENSE */,
+				99528E1E39F0503D1D35CAB34B07AB0A /* README.md */,
+				085997941FA9B5734367CCD347E653ED /* RYNCategory.podspec */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		649B410C806236759657733562B7B85F /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				6A4FB07A783B97546BE01380E28D6BD0 /* Info.plist */,
+				62249CFBFE575A708DBE6DDD6C300D5A /* RYNCategory.modulemap */,
+				8F31EED6F6C82A455585CF6217598B50 /* RYNCategory.xcconfig */,
+				7EB326D43F765FBA5BC25B360D3E1487 /* RYNCategory-dummy.m */,
+				BC33AD8B265DEC8DD0AFFD66B3A27BA6 /* RYNCategory-prefix.pch */,
+				74473C8ECFA92E0BCE2590BD0658B43F /* RYNCategory-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/RYNCategory";
+			sourceTree = "<group>";
+		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				A856F04F2384041C13ECE27E8CFC7F9B /* Development Pods */,
+				06081555C1F65D8EDEB503E8FF9C9CD9 /* Development Pods */,
 				14B8B9B15ECBE87983FF987239AB2D7B /* Frameworks */,
 				FBD2D672921284E66F309CA3462F84D6 /* Pods */,
 				A17BF9A74D6ED9D46770CBB265C2685D /* Products */,
@@ -253,14 +314,6 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A856F04F2384041C13ECE27E8CFC7F9B /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				C9D9F5BEE9DAD8043BC33CE0373BA110 /* RYNCategory */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
 		A97BDFD179339FC08F46B704B845A4EC /* Pods-RYNCategory_Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -286,33 +339,6 @@
 				A97BDFD179339FC08F46B704B845A4EC /* Pods-RYNCategory_Tests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		C6FD3D0E6AB114222CC98560669891DD /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				E9D23D3F7FD62C1C7D0252D629B3724F /* LICENSE */,
-				BA14A7517A929DD9D1CE6AC7456CC1D3 /* README.md */,
-				0DAAC9353B5CAF25601746B5F92D0F8A /* RYNCategory.podspec */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		C9D9F5BEE9DAD8043BC33CE0373BA110 /* RYNCategory */ = {
-			isa = PBXGroup;
-			children = (
-				C5245CCE0BDB94D59FE58B0AB250B0F8 /* NSDate+Category.h */,
-				DC3B4E6793AA3F97D0D08F71CC98EA5E /* NSDate+Category.m */,
-				C32F1AD5A9CCE3819B082DF84D7BA5B7 /* NSDateFormatter+Category.h */,
-				79A099654BFE85E766F102FC465AB88A /* NSDateFormatter+Category.m */,
-				ABE36FFD8A82464170C90D3E15728F1C /* RYNCategory.h */,
-				FAAE785FEE8BC58541D635BEB8DA4AC6 /* UIScrollView+Extensions.h */,
-				C40D844337FD68114BF50674B5CC02DA /* UIScrollView+Extensions.m */,
-				C6FD3D0E6AB114222CC98560669891DD /* Pod */,
-				F83C7EB2E5B2829860C03350834AA817 /* Support Files */,
-			);
-			name = RYNCategory;
-			path = ../..;
 			sourceTree = "<group>";
 		};
 		D610F345F0E843CA164A806C1EB1D8E3 /* Pods-RYNCategory_Example */ = {
@@ -354,20 +380,6 @@
 			name = Core;
 			sourceTree = "<group>";
 		};
-		F83C7EB2E5B2829860C03350834AA817 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				394BE66ECA95472EE78A383BE9896433 /* Info.plist */,
-				786F0CF27808BD8B0B90A3B8621E062C /* RYNCategory.modulemap */,
-				72170CB74686EC547A42CF93407D623F /* RYNCategory.xcconfig */,
-				7B3BB9D5CF9948184C6C8C2679643B8E /* RYNCategory-dummy.m */,
-				E37E68B508D169EB263980B886ADEA73 /* RYNCategory-prefix.pch */,
-				0F5A2A14F39B5CE79E8AF44126B37EC2 /* RYNCategory-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/RYNCategory";
-			sourceTree = "<group>";
-		};
 		FBD2D672921284E66F309CA3462F84D6 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -379,23 +391,25 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		15F86C573FEA9DDD5C13450F6BDF7914 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				6B3C7153A0D0EE04FDA175F42C312090 /* NSDate+Category.h in Headers */,
-				1B376F7271F3FC029714255184AC81C5 /* NSDateFormatter+Category.h in Headers */,
-				2D2EC4259382E093BB573B876CA98E0E /* RYNCategory-umbrella.h in Headers */,
-				CFB221217F277AA37943AA3C5C1421BA /* RYNCategory.h in Headers */,
-				49F618EB90E3A34218EB33D84CA772AF /* UIScrollView+Extensions.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		2B960803DC8FBFD3F37BABE0BBBB6E78 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				A984339CFAED44A2800A85B42EEB711F /* Pods-RYNCategory_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		457D0AAF84C05ED6C6A31D73B76620BC /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D45DAE8E489A3CF4E23A83DF7F97C1E8 /* NSDate+Category.h in Headers */,
+				E62DA317D111C4C8B82FE147ECD26FAE /* NSDateFormatter+Category.h in Headers */,
+				3CA770C62CD19F6E75B07AEB0861F3E6 /* RYNCategory-umbrella.h in Headers */,
+				A9898D4B0B4CF7118F671286A33B5F72 /* RYNCategory.h in Headers */,
+				D14A78F9E54F9B870A7859C099A1C172 /* UIButton+EnlargeHitArea.h in Headers */,
+				94A8389D9AB546BEE90CD938ECA6D001 /* UIButton+Type.h in Headers */,
+				DBE5F56AD0E5D8EC26BA87C4FDAB7961 /* UIScrollView+Extensions.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -447,9 +461,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0397C6E59DD8E98A8C1D6FFEFA6DEFB8 /* Build configuration list for PBXNativeTarget "RYNCategory" */;
 			buildPhases = (
-				41B42D4DC6646406103E933AF3D44DF6 /* Sources */,
+				0E1071F914CD983AFDCDA2ABECA31750 /* Sources */,
 				32CC47739502D55222956BF0A62594C6 /* Frameworks */,
-				15F86C573FEA9DDD5C13450F6BDF7914 /* Headers */,
+				457D0AAF84C05ED6C6A31D73B76620BC /* Headers */,
 			);
 			buildRules = (
 			);
@@ -534,14 +548,16 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		41B42D4DC6646406103E933AF3D44DF6 /* Sources */ = {
+		0E1071F914CD983AFDCDA2ABECA31750 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				48D344DA34E8E7A2813C752AC849156F /* NSDate+Category.m in Sources */,
-				24C581DBF0C09324F6257BEB3A8A755E /* NSDateFormatter+Category.m in Sources */,
-				1BA6810E383CB35036750EB3ED1B8E2D /* RYNCategory-dummy.m in Sources */,
-				5B1823A62CB0B4DB35A6C9E020D46790 /* UIScrollView+Extensions.m in Sources */,
+				845BA307068ED0E1578B06C131E4124E /* NSDate+Category.m in Sources */,
+				5459E711FCDE4E2DB480DC19A449719C /* NSDateFormatter+Category.m in Sources */,
+				8E220B3259C7ACAFE9BA969D85F19BF3 /* RYNCategory-dummy.m in Sources */,
+				B0E0F9C2E43DEE7521D2A0A73A6526EA /* UIButton+EnlargeHitArea.m in Sources */,
+				45E552237229DDBDB4F05F05888D56F8 /* UIButton+Type.m in Sources */,
+				D41B4E9C0DDCC1F26FCFD109A825D8A6 /* UIScrollView+Extensions.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -728,7 +744,7 @@
 		};
 		91D7270EDEF169A592B6342FF09FB53E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 72170CB74686EC547A42CF93407D623F /* RYNCategory.xcconfig */;
+			baseConfigurationReference = 8F31EED6F6C82A455585CF6217598B50 /* RYNCategory.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -947,7 +963,7 @@
 		};
 		F7381AC190C70609BD12E683458C64D1 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 72170CB74686EC547A42CF93407D623F /* RYNCategory.xcconfig */;
+			baseConfigurationReference = 8F31EED6F6C82A455585CF6217598B50 /* RYNCategory.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
