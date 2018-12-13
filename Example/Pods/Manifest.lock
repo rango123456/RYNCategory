@@ -8,7 +8,7 @@ PODS:
 
 DEPENDENCIES:
   - FBSnapshotTestCase
-  - RYNCategory (from `../`)
+  - RYNCategory (from `../RYNCategory.podspec`)
 
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
@@ -16,12 +16,12 @@ SPEC REPOS:
 
 EXTERNAL SOURCES:
   RYNCategory:
-    :path: "../"
+    :path: "../RYNCategory.podspec"
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  RYNCategory: 32bf394fd096aa399975424711eafb7f3329c118
+  RYNCategory: 087b5ec74ac3490fc2d08f29296760f22105f649
 
-PODFILE CHECKSUM: c1e79a0bbcdd718de280f459e9aeb15133d2b7d7
+PODFILE CHECKSUM: a0abe9de666e971d9da47d800dab82f37b1af5d9
 
 COCOAPODS: 1.5.0

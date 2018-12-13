@@ -3,7 +3,7 @@ use_frameworks!
 platform :ios, '8.0'
 
 target 'RYNCategory_Example' do
-  pod 'RYNCategory', :path => '../'
+  pod 'RYNCategory', :path => '../RYNCategory.podspec'
 
   target 'RYNCategory_Tests' do
     inherit! :search_paths

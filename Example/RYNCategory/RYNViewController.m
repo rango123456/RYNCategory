@@ -8,7 +8,6 @@
 
 #import "RYNViewController.h"
 #import <RYNCategory/RYNCategory.h>
-
 @interface RYNViewController ()
 
 @end
